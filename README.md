@@ -69,6 +69,6 @@ Example:
 - Generated / Edited Image Output
 - Stored Image Metadata View
 
-![App Screenshot 1](./screenshots/Screenshot%202025-12-13%20194818.png)
-![App Screenshot 2](./screenshots/Screenshot%202025-12-13%20194833.png)
+![App Screenshot 1](./screenshots/screenshot-1.png)
+![App Screenshot 2](./screenshots/screenshot-2.png)
 
