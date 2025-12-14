@@ -27,7 +27,8 @@ Image-Editing-Tool addresses this by using a serverless architecture and managed
 
 The application follows a cloud-native, serverless architecture using AWS managed services.
 
-![Image-Editing-Tool Architecture Diagram](./ImageEditApp-Architecture.png)
+![Architecture Diagram](./screenshots/ImageEditApp-Architecture.png)
+
 
 ### Architecture Flow
 
@@ -68,4 +69,6 @@ Example:
 - Generated / Edited Image Output
 - Stored Image Metadata View
 
-You can place screenshots inside a `/screenshots` folder and reference them here:
+![App Screenshot 1](./screenshots/Screenshot%202025-12-13%20194818.png)
+![App Screenshot 2](./screenshots/Screenshot%202025-12-13%20194833.png)
+
