@@ -57,18 +57,6 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ## 🎥 Demo & Screenshots
 
-### Live Demo
-> *(Add your deployed application URL here)*
-
-### Screenshots
-> *(Add screenshots showing the UI, authentication flow, and AI-generated image results)*
-
-Example:
-- Login & Authentication Screen
-- Image Prompt Input Interface
-- Generated / Edited Image Output
-- Stored Image Metadata View
-
 ![App Screenshot 1](./screenshots/screenshot-1.png)
 ![App Screenshot 2](./screenshots/screenshot-2.png)
 
