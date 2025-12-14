@@ -57,6 +57,6 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ## 🎥 Demo & Screenshots
 
-![App Screenshot 1](./screenshots/screenshot-1.png)
+![App Screenshot 1](./screenshots/screenshot-3.png)
+![App Screenshot 2](./screenshots/screenshot-1.png)
 ![App Screenshot 2](./screenshots/screenshot-2.png)
-
