@@ -1,4 +1,4 @@
-# Image-Editing-Tool
+# Serverless-Image-Editing-Tool
 
 Image-Editing-Tool is a serverless web application that enables users to generate and edit images using Generative AI prompts. The application is built entirely on AWS using managed, scalable services and integrates Amazon Bedrock for AI-powered image generation. This project demonstrates how modern GenAI applications can be built without managing servers or machine learning infrastructure.
 
