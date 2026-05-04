@@ -4,7 +4,7 @@ Image-Editing-Tool is a serverless web application that enables users to generat
 
 ---
 
-## 🚀 Features
+## Features
 
 - AI-powered image generation and editing using text prompts
 - Secure user authentication and authorization
@@ -15,7 +15,7 @@ Image-Editing-Tool is a serverless web application that enables users to generat
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Building AI image editing applications traditionally requires managing servers, scaling infrastructure, and handling complex ML workflows. These challenges increase development time and operational costs, especially for individual developers and small teams.
 
@@ -23,7 +23,7 @@ Image-Editing-Tool addresses this by using a serverless architecture and managed
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The application follows a cloud-native, serverless architecture using AWS managed services.
 
@@ -43,7 +43,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## ⚙️ AWS Services Used
+## AWS Services Used
 
 - **Amazon Bedrock** – Generative AI image generation (Titan Image Generator G1)
 - **AWS Lambda** – Serverless backend logic
@@ -55,7 +55,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 🎥 Demo & Screenshots
+## Demo & Screenshots
 
 ![App Screenshot 1](./screenshots/screenshot-3.png)
 ![App Screenshot 2](./screenshots/screenshot-1.png)
@@ -64,12 +64,11 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
 - AWS Account
-- Node.js
 - AWS CLI configured
 - Basic understanding of AWS services
 
@@ -90,7 +89,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 
 - IAM roles follow the principle of least privilege
 - Cognito-secured API endpoints
@@ -100,7 +99,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 📈 Scalability & Performance
+## Scalability & Performance
 
 - Automatically scales using AWS Lambda
 - Supports concurrent users without manual provisioning
@@ -112,7 +111,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 🧠 Learnings & Takeaways
+## Learnings & Takeaways
 
 - Hands-on experience with Amazon Bedrock and Generative AI
 - Designing scalable serverless architectures
@@ -122,13 +121,7 @@ The application follows a cloud-native, serverless architecture using AWS manage
 
 ---
 
-## 🏆 Context
-
-This project was built during the **AI for Bharat Hackathon – Learning Phase**, focusing on practical implementation of Generative AI using AWS services.
-
----
-
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Image versioning and history
 - Advanced prompt customization
@@ -136,16 +129,3 @@ This project was built during the **AI for Bharat Hackathon – Learning Phase**
 - Usage limits and monitoring
 - UI enhancements and analytics dashboard
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Acknowledgements
-
-- Amazon Web Services
-- Amazon Bedrock
-- AI for Bharat Program
